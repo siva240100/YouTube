@@ -41,8 +41,4 @@ Data Migration: Transfer data from MongoDB to a SQL database for more efficient 
 
 Data Querying: Perform advanced searches on the SQL database to retrieve relevant information.
 
-This updated description now includes a mention of data cleaning, making your README more comprehensive. Feel free to adjust and expand upon this template to better suit your project's requirements and style. If you have any more specifics to add, just let me know!
 
-
-
-Message Copilot
